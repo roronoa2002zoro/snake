@@ -1,0 +1,53 @@
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.Form1.resources
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfo.cs
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.exe
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.deps.json
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.json
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.dev.json
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\ИП31\Дружинин М.М\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.genruntimeconfig.cache
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.exe
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.deps.json
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.json
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.dev.json
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\bin\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.Form1.resources
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.Properties.Resources.resources
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfo.cs
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\Э.ип31\Змейка\Змейка\obj\Debug\netcoreapp3.1\Змейка.genruntimeconfig.cache
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.exe
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.deps.json
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.json
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.runtimeconfig.dev.json
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\11\Змейка\bin\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.Form1.resources
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.Properties.Resources.resources
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.GenerateResource.cache
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.AssemblyInfo.cs
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.dll
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.pdb
+C:\Users\student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.genruntimeconfig.cache
+C:\Users\Student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\11\Змейка\obj\Debug\netcoreapp3.1\Змейка.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.33.200\Share\ГРУППЫ\ПРОГРАММИСТЫ\ИП22\Змейка\obj\Debug\netcoreapp3.1\Змейка.csproj.AssemblyReference.cache
+\\192.168.33.200\Share\ГРУППЫ\ПРОГРАММИСТЫ\ИП22\Змейка\obj\Debug\netcoreapp3.1\Змейка.dll
+\\192.168.33.200\Share\ГРУППЫ\ПРОГРАММИСТЫ\ИП22\Змейка\obj\Debug\netcoreapp3.1\Змейка.pdb
